@@ -1,0 +1,13 @@
+python-dotenv
+openai
+langchain
+llama-index
+llama-hub
+PyCryptodome
+gradio
+graphsignal
+tesseract
+pytesseract
+youtube_transcript_api
+sqlalchemy
+chromadb
